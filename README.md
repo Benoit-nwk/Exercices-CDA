@@ -1,14 +1,16 @@
-# Initialisation du projet
+# Exercice02 - blog-app
+
+## Initialisation du projet
 
 - Création du repo git nommé `blog-app`
 
-# Déploiement des fonctionnalités
+## Déploiement des fonctionnalités
 
 - Création de 3 branches : `articles` , `commentaires`, `utilisateurs`.
 
 - Création de fichiers de simulation pour chaque fonctionnalités dans les branches correspondantes.
 
-# Pull request
+## Pull request
 
 - Création de pull request vers la branche `main` de chaque fonctionnalités.
 
@@ -16,7 +18,7 @@
 
 - Acceptation des différentes pull request vers la branche `main`
 
-# Simulation de bug
+## Simulation de bug
 
 - Création d'un rapport de bug nommé `bug_report.md`
 
